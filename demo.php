@@ -1,6 +1,6 @@
 <?php
 /*
-ici un 2eme changement pour le 1er commit
+ici un 2eme changement pour la branche Modif commentaire
 */
 
 /* 
